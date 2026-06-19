@@ -243,6 +243,25 @@ streamlit run app.py
 * CSV Download Support
 
 ---
+## Screenshots
+
+### Dashboard
+<img width="791" height="741" alt="Screenshot 2026-06-19 175937" src="https://github.com/user-attachments/assets/6fdc9cc7-dd6b-4849-9480-02f5ebcd6d4b" />
+
+
+### Candidate Rankings
+<img width="1530" height="860" alt="Screenshot 2026-06-19 180004" src="https://github.com/user-attachments/assets/6e5f9498-15fa-4093-8818-7c143ece1f6e" />
+
+
+### Score Distribution
+<img width="1746" height="672" alt="Screenshot 2026-06-19 180032" src="https://github.com/user-attachments/assets/028dba4e-4b5a-41d3-a207-e4b015b07c0b" />
+<img width="1763" height="683" alt="Screenshot 2026-06-19 180052" src="https://github.com/user-attachments/assets/865c5a66-998d-4382-94f7-de3f9e636a6b" />
+<img width="1763" height="683" alt="Screenshot 2026-06-19 180052" src="https://github.com/user-attachments/assets/28eff7fc-ed96-49e9-be54-9b3e49a12338" />
+<img width="1787" height="672" alt="Screenshot 2026-06-19 180109" src="https://github.com/user-attachments/assets/3fdf315c-ff46-463d-945b-060d523a2668" />
+<img width="1738" height="717" alt="Screenshot 2026-06-19 180126" src="https://github.com/user-attachments/assets/0c0c7846-b6d8-41ba-805b-0c08f95e9765" />
+<img width="1723" height="632" alt="Screenshot 2026-06-19 180146" src="https://github.com/user-attachments/assets/8d54822e-9d06-4c45-9c72-c56ebdca52b6" />
+<img width="936" height="618" alt="Screenshot 2026-06-19 180200" src="https://github.com/user-attachments/assets/87b9189b-a7d2-480c-be63-bcef116769bf" />
+
 
 # Future Improvements
 
