@@ -262,7 +262,7 @@ streamlit run app.py
 <img width="1723" height="632" alt="Screenshot 2026-06-19 180146" src="https://github.com/user-attachments/assets/8d54822e-9d06-4c45-9c72-c56ebdca52b6" />
 <img width="936" height="618" alt="Screenshot 2026-06-19 180200" src="https://github.com/user-attachments/assets/87b9189b-a7d2-480c-be63-bcef116769bf" />
 
-
+---
 # Future Improvements
 
 * Learning-to-Rank Models
