@@ -259,6 +259,6 @@ streamlit run app.py
 
 Chandana K V
 
-Final Year Engineering Student
+Graguagated Computer Science and Engineering (Data Science) Student
 
 SmartHire AI – Intelligent Candidate Discovery & Ranking System
